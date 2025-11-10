@@ -37,7 +37,7 @@ Model Persistence	Pickle (.pkl files)
 Follow these steps to run the project locally:
 
 # 1️⃣ Clone this repository
-git clone https://github.com/<your-username>/Multiple-Disease-Prediction-Webapp-ML.git
+git clone https://github.com/Athulkrishnaca2004/Multiple-Disease-Prediction-Webapp-ML.git
 
 # 2️⃣ Navigate into the project directory
 cd Multiple-Disease-Prediction-Webapp
