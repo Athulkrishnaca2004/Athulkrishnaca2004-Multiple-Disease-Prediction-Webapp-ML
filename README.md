@@ -40,7 +40,7 @@ Follow these steps to run the project locally:
 git clone https://github.com/Athulkrishnaca2004/Athulkrishnaca2004-Multiple-Disease-Prediction-Webapp-ML
 
 # 2️⃣ Navigate into the project directory
-cd Multiple-Disease-Prediction-Webapp
+cd Multiple-Disease-Prediction-Webapp-ML
 
 # 3️⃣ Install the dependencies
 pip install -r requirements.txt
